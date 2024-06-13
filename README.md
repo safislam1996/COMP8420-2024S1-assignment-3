@@ -15,6 +15,7 @@ The directory has the following files present
 1. First run the `main.py` file to run the code. This produces the result folder and logs. This file prints out the necessary metrics of the model
 2. Run the streamlit app. The app prompts you to give a excel sheet of reviews.
 3. If the streamlit app doesnot work. Please run `model_predict.py` file for checking for sentiment
+4. Test the sentiment analysis on the review example.
 
 
 
